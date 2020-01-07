@@ -1,5 +1,0 @@
-*
-!/build/*
-*.spec.*
-*.test.*
-__test__/*
